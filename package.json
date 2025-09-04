@@ -1,0 +1,13 @@
+{
+  "name": "telegram-game-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch past Telegram messages, parse game results, and save into category-wise JSON files",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "telegram": "^2.26.22"
+  }
+}
